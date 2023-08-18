@@ -5,6 +5,7 @@ Starter package for neural nets using Tensorflow and keras with notebook example
 
 <details>
   <summary> TO DO list </summary>
+  
 - [x] Add initial files
 - [x] Add module1 first basic example movie review model and save.
 - [ ] Add contibution guidelines
@@ -12,6 +13,8 @@ Starter package for neural nets using Tensorflow and keras with notebook example
 - [ ] Add documents
 - [ ] Add modules and examples with increasing difficulty.
 - [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] 
+
 </details>
 
 > [!NOTE]
