@@ -12,12 +12,12 @@ Starter package for neural nets using Tensorflow and keras with notebook example
 - [ ] Add documents
 - [ ] Add modules and examples with increasing difficulty.
 - [ ] Add delight to the experience when all tasks are complete :tada:
-
 </details>
-> [!NOTE]  
-> More comming soon....!
 
-> [!IMPORTANT]  
+> [!NOTE]
+More comming soon....!
+
+> [!IMPORTANT]
 I am in the processing nootebooks and structuring them in modules with increased difficulty keeping starters in mind it may take a while, Thanks for your patience.
 In case you like to contribute, Contact me I  will let you in. Moreover,
 I will update the contrribution guidlines soon.
